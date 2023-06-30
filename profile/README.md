@@ -8,13 +8,6 @@ Slide – это распределённое веб-приложение, ко�
 ## Использованные технологии
 C#, Github, Microsoft .NET, PostgreSQL, Docker, Docker-compose и Windows Forms
 
-## Архитектура приложения
-
-* Клиент-сервер
-* REST API
-* Контроллеры (users, messages)
-* База данных (users, auth_data, chat, chat_member, message)  
-
 ## Скриншоты
 <details>
   <summary>Показать</summary>  
